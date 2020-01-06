@@ -1,0 +1,3 @@
+[submodule "themes/creative_portfolio"]
+	path = themes/creative_portfolio
+	url = https://github.com/kishaningithub/hugo-creative-portfolio-theme.git
